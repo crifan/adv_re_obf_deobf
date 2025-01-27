@@ -1,0 +1,19 @@
+{
+  "title": "高级逆向：混淆和反混淆",
+  "description": "介绍正向的代码混淆和逆向的反代码混淆的相关各个领域的内容。",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "adv_re_obf_deobf"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.org/books/adv_re_obf_deobf/website/"
+    },
+    "toolbar-button": {
+      "url": "https://book.crifan.org/books/adv_re_obf_deobf/pdf/adv_re_obf_deobf.pdf"
+    }
+  }
+}
